@@ -32,10 +32,15 @@ This heat map shows the number of bike trips by gender for each hour of each day
 ![image](https://user-images.githubusercontent.com/84286467/133826656-bacb385b-69dc-4b45-bc35-1c39b0cc46e5.png)
 This visualization depicts the number of bike trips by gender for each hour for each day of the week.
 
-
-
 ### Module Visualizations
+**Top Starting and Ending Locations**
+***Starting***
+![image](https://user-images.githubusercontent.com/84286467/133827376-e9e7003d-93e0-4eb8-8ee6-b9d037d4210a.png)
 
+***Ending***
+![image](https://user-images.githubusercontent.com/84286467/133827477-a1dbcf84-f4e3-4852-aa9f-33261ebb8925.png)
+
+These two visualizations were from the module. From the maps, most of the trips began and ended in Manhattan.
 ## Summary
 
 ### Additional Visualizations
